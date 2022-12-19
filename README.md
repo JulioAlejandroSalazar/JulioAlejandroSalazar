@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hi there 👋 my name is Julio Salazar
+### I´m a Junior programmer with knoledge of Python Django
+
+Bio
+
+## Skills:
+![ Python ](https://shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</br>
+![ Django ](https://shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)</br>
+![ HTML ](https://shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)</br>
+![ CSS ](https://shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)</br>
+![ JavaScript ](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## Contact me:
+
 
 <!--
 **JulioAlejandroSalazar/JulioAlejandroSalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
