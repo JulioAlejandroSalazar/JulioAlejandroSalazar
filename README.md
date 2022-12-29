@@ -1,5 +1,5 @@
 # Hi there 👋 my name is Julio Salazar
-### I´m a Junior programmer with knoledge of Python Django
+### I´m a Junior programmer with knowledge of Python Django
 
 I´ve taken a couple of courses of Python and one that specializes in Django, with the knowledge I´ve acquired I built some projects on my own using Django, such as a blog app for people to post what they want.
 
