@@ -15,9 +15,6 @@ I´ve taken a couple of courses of Python and one that specializes in Django, wi
 ## Languages:
 - Spanish | Mother language
 - English | Advanced
-
-## Contact me:
-julio522002@gmail.com
 <hr>
 
 # Español
@@ -38,8 +35,6 @@ He hecho un par de cursos de Python y uno que se especializa en Django, con el c
 - Español | Lengua materna
 - Inglés | Avanzado
 
-## Contáctame:
-julio522002@gmail.com
 
 <!--
 **JulioAlejandroSalazar/JulioAlejandroSalazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
