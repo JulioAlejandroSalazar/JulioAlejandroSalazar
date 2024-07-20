@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Julio Salazar</h1>
 <h3 align="center">I'm a Junior programmer with knowledge of Java and Python</h3>
 
-- 🔭 I’m currently working on **Chess game**
+- 🔭 I’m currently working on: **Chess game**
 
-- 🌱 I’m currently learning **Java, Spring**
+- 🌱 I’m currently learning: **Java, Spring**
 
-- 📫 How to reach me **julio522002@gmail.com**
+- 📫 How to reach me: **julio522002@gmail.com**
 
-- 📄 Know about my experiences I am currently studying an app development career using Java and I´ve taken a couple of courses of Python and one that specializes in Django, with the knowledge I´ve acquired I built some projects on my own.
+- 📄 Know about my experiences: I am currently studying an app development career using Java and I've taken a couple of courses of Python and one that specializes in Django, with the knowledge I've acquired I built some projects on my own.
 
 <p align="left">
 </p>
