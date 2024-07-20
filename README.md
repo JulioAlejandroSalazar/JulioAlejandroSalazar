@@ -1,10 +1,11 @@
 # English
-## Hi there 👋 my name is Julio Salazar</br>I´m a Junior programmer with knowledge of Python Django
+## Hi there 👋 my name is Julio Salazar</br>I´m a Junior programmer with knowledge of Java and Python
 
 ## About me:
-I´ve taken a couple of courses of Python and one that specializes in Django, with the knowledge I´ve acquired I built some projects on my own using Django, such as a blog app for people to post what they want.
+I am currently studying an app development career using Java and I´ve taken a couple of courses of Python and one that specializes in Django, with the knowledge I´ve acquired I built some projects on my own.
 
 ## Skills:
+![ Java ](https://shields.io/badge/OpenJDK-000000?style=for-the-badge&logo=openjdk&logoColor=white)</br>
 ![ Python ](https://shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</br>
 ![ Django ](https://shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)</br>
 ![ PostgreSQL ](https://shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)</br>
@@ -18,12 +19,13 @@ I´ve taken a couple of courses of Python and one that specializes in Django, wi
 <hr>
 
 # Español
-## Hola 👋 me llamo Julio Salazar</br>Soy un programador junior con conocimientos de Python Django
+## Hola 👋 me llamo Julio Salazar</br>Soy un programador junior con conocimientos de Java y Python
 
 ## Acerca de mi:
-He hecho un par de cursos de Python y uno que se especializa en Django, con el conocimiento que he adquirido he hecho proyectos por mi cuenta usando Django, como un blog para que las personas puedan publicar lo que quieran.
+Actualmente estoy estudiando una carrera de desarrollo de aplicaciones en Java, también he hecho un par de cursos de Python y uno que se especializa en Django, con el conocimiento que he adquirido he hecho algunos proyectos por mi cuenta.
 
 ## Habilidades:
+![ Java ](https://shields.io/badge/OpenJDK-000000?style=for-the-badge&logo=openjdk&logoColor=white)</br>
 ![ Python ](https://shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</br>
 ![ Django ](https://shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)</br>
 ![ PostgreSQL ](https://shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)</br>
