@@ -1,41 +1,19 @@
-# English
-## Hi there 👋 my name is Julio Salazar</br>I´m a Junior programmer with knowledge of Java and Python
+<h1 align="center">Hi 👋, I'm Julio Salazar</h1>
+<h3 align="center">I'm a Junior programmer with knowledge of Java and Python</h3>
 
-## About me:
-I am currently studying an app development career using Java and I´ve taken a couple of courses of Python and one that specializes in Django, with the knowledge I´ve acquired I built some projects on my own.
+- 🔭 I’m currently working on **Chess game**
 
-## Skills:
-![ Java ](https://shields.io/badge/OpenJDK-000000?style=for-the-badge&logo=openjdk&logoColor=white)</br>
-![ Python ](https://shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</br>
-![ Django ](https://shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)</br>
-![ PostgreSQL ](https://shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)</br>
-![ HTML ](https://shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)</br>
-![ CSS ](https://shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)</br>
-![ JavaScript ](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- 🌱 I’m currently learning **Java, Spring**
 
-## Languages:
-- Spanish | Mother language
-- English | Advanced
-<hr>
+- 📫 How to reach me **julio522002@gmail.com**
 
-# Español
-## Hola 👋 me llamo Julio Salazar</br>Soy un programador junior con conocimientos de Java y Python
+- 📄 Know about my experiences I am currently studying an app development career using Java and I´ve taken a couple of courses of Python and one that specializes in Django, with the knowledge I´ve acquired I built some projects on my own.
 
-## Acerca de mi:
-Actualmente estoy estudiando una carrera de desarrollo de aplicaciones en Java, también he hecho un par de cursos de Python y uno que se especializa en Django, con el conocimiento que he adquirido he hecho algunos proyectos por mi cuenta.
+<p align="left">
+</p>
 
-## Habilidades:
-![ Java ](https://shields.io/badge/OpenJDK-000000?style=for-the-badge&logo=openjdk&logoColor=white)</br>
-![ Python ](https://shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)</br>
-![ Django ](https://shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)</br>
-![ PostgreSQL ](https://shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)</br>
-![ HTML ](https://shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)</br>
-![ CSS ](https://shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)</br>
-![ JavaScript ](https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## Idiomas:
-- Español | Lengua materna
-- Inglés | Avanzado
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> </p>
 
 
 <!--
